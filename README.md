@@ -1,7 +1,3 @@
-Here's a basic README section about Glide:  
-
----
-
 ## Glide - Image Loading Library for Android  
 
 Glide is a fast and efficient image loading library for Android that simplifies handling and displaying images from various sources such as URLs, local storage, and resources. Developed by **Bumptech**, Glide is widely used for its smooth performance, automatic caching, and ease of integration.  
@@ -54,4 +50,3 @@ Glide.with(context)
 
 ---
 
-Would you like me to modify this for a specific use case? 🚀
